@@ -8,7 +8,7 @@
   <CreatorOS>2</CreatorOS>
   <CreatorApp>2</CreatorApp>
   <AbsoluteVersion>1</AbsoluteVersion>
-  <Radians>1</Radians>
+  <Radians>0</Radians>
   <NumDerivativePoints>7</NumDerivativePoints>
   <NumSmoothingPoints>7</NumSmoothingPoints>
   <ShowZeroOnToolbar>1</ShowZeroOnToolbar>
@@ -20,7 +20,7 @@
   <GraphMatchNumSections>3</GraphMatchNumSections>
   <Stationery>0</Stationery>
   <CreationDateTime>07.12.2019 14:39:11</CreationDateTime>
-  <ModifiedDateTime>07.12.2019 14:57:10</ModifiedDateTime>
+  <ModifiedDateTime>14.12.2019 18:16:28</ModifiedDateTime>
   <PageBounds>0 0 16.6458333333 8.125</PageBounds>
   <ScreenResolution>0 0 3199 1799</ScreenResolution>
   <MathType>0</MathType>
@@ -41,65 +41,22 @@
     <BroadcastTo>0 </BroadcastTo>
     <Visible>1</Visible>
     <PageTitle></PageTitle>
-    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0x1d</PageColor>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
     <PagePageInfo></PagePageInfo>
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
-    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0x1e</PageGraphPaperLineColor>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
     <PageReplayWindowPosition>0 85 169 726 462</PageReplayWindowPosition>
-    <PageTable>
-      <ID>214 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.005625 0.005625 3.06264322917 6.6775 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0x2a</BackgroundColor>
-      <AddNewData>1</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>1</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 2 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TableColumn> 204 0.8 </TableColumn>
-      <TableColumn> 206 0.8 </TableColumn>
-      <TableColumn> 208 0.8 </TableColumn>
-      <TableColumn> 211 0.8 </TableColumn>
-      <TableColumn> 218 0.8 </TableColumn>
-      <TableColumn> 220 0.8 </TableColumn>
-      <TableColumn> 222 0.8 </TableColumn>
-      <TableColumn> 225 0.8 </TableColumn>
-      <TableColumn> 229 0.8 </TableColumn>
-      <TableColumn> 231 0.8 </TableColumn>
-      <TableColumn> 233 0.8 </TableColumn>
-      <TableColumn> 236 0.8 </TableColumn>
-      <TableColumn> 240 0.8 </TableColumn>
-      <TableColumn> 242 0.8 </TableColumn>
-      <TableColumn> 244 0.8 </TableColumn>
-      <TableColumn> 247 0.8 </TableColumn>
-      <StartIndex> 0 </StartIndex>
-      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
-    </PageTable>
     <PageGraphCartesian>
       <ID>215 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07576822917 0.0075 16.6383333333 8.1175 </Bounds>
+      <Bounds>3.07576822918 0.0075 16.6383333333 8.1175 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0x0</BackgroundColor>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
       <Locked>0</Locked>
       <AutoCreated>1</AutoCreated>
@@ -136,9 +93,9 @@
       <BinGraphStackColumns>0</BinGraphStackColumns>
       <GraphShowPointProtectors>0</GraphShowPointProtectors>
       <GraphMajorTickStyle>1</GraphMajorTickStyle>
-      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x2b</GraphMajorTickColor>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
       <GraphMinorTickStyle>0</GraphMinorTickStyle>
-      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x2b</GraphMinorTickColor>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
       <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
       <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
       <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
@@ -168,11 +125,11 @@
       <ID>216 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.00375 6.706875 3.05451822917 8.11125 </Bounds>
+      <Bounds>0.00375000000001 6.706875 3.05451822918 8.11125 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0x29</BackgroundColor>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
       <Locked>0</Locked>
       <AutoCreated>1</AutoCreated>
@@ -197,6 +154,49 @@
       <MeterAlarmValue>0</MeterAlarmValue>
       <MeterAlertSound>0</MeterAlertSound>
     </PageMeter>
+    <PageTable>
+      <ID>214 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.00562500000001 0.005625 3.06264322918 6.6775 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>1</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 2 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 204 0.800000000002 </TableColumn>
+      <TableColumn> 206 0.800000000002 </TableColumn>
+      <TableColumn> 208 0.800000000002 </TableColumn>
+      <TableColumn> 211 0.800000000002 </TableColumn>
+      <TableColumn> 218 0.800000000002 </TableColumn>
+      <TableColumn> 220 0.800000000002 </TableColumn>
+      <TableColumn> 222 0.800000000002 </TableColumn>
+      <TableColumn> 225 0.800000000002 </TableColumn>
+      <TableColumn> 229 0.800000000002 </TableColumn>
+      <TableColumn> 231 0.800000000002 </TableColumn>
+      <TableColumn> 233 0.800000000002 </TableColumn>
+      <TableColumn> 236 0.800000000002 </TableColumn>
+      <TableColumn> 240 0.800000000002 </TableColumn>
+      <TableColumn> 242 0.800000000002 </TableColumn>
+      <TableColumn> 244 0.800000000002 </TableColumn>
+      <TableColumn> 247 0.800000000002 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
   </Page>
   <CurrentPageIndex>0</CurrentPageIndex>
   <DataSet>
@@ -428,7 +428,7 @@
       <Visible>1</Visible>
       <DataObjectName>Угол</DataObjectName>
       <DataObjectShortName>Угол</DataObjectShortName>
-      <DataObjectColor>0xffff 0x7f7f 0x0| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0xffff 0x7f7f 0x0| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>197</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>2</DataObjectPrecision>
@@ -626,7 +626,7 @@
       <Visible>1</Visible>
       <DataObjectName>Скорость</DataObjectName>
       <DataObjectShortName>v</DataObjectShortName>
-      <DataObjectColor>0xffff 0x7f7f 0x0| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0xffff 0x7f7f 0x0| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>210</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>3</DataObjectPrecision>
@@ -676,7 +676,7 @@
       <Visible>1</Visible>
       <DataObjectName>Ускорение</DataObjectName>
       <DataObjectShortName>a</DataObjectShortName>
-      <DataObjectColor>0xffff 0x7f7f 0x0| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0xffff 0x7f7f 0x0| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>213</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>2</DataObjectPrecision>
@@ -964,7 +964,7 @@
       <Visible>1</Visible>
       <DataObjectName>Угол</DataObjectName>
       <DataObjectShortName>Угол</DataObjectShortName>
-      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>2</DataObjectPrecision>
@@ -1177,7 +1177,7 @@
       <Visible>1</Visible>
       <DataObjectName>Скорость</DataObjectName>
       <DataObjectShortName>v</DataObjectShortName>
-      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>224</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>3</DataObjectPrecision>
@@ -1227,7 +1227,7 @@
       <Visible>1</Visible>
       <DataObjectName>Ускорение</DataObjectName>
       <DataObjectShortName>a</DataObjectShortName>
-      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>227</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>2</DataObjectPrecision>
@@ -1487,7 +1487,7 @@
       <Visible>1</Visible>
       <DataObjectName>Угол</DataObjectName>
       <DataObjectShortName>Угол</DataObjectShortName>
-      <DataObjectColor>0x0 0x0 0xffff| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x0 0x0 0xffff| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>2</DataObjectPrecision>
@@ -1672,7 +1672,7 @@
       <Visible>1</Visible>
       <DataObjectName>Скорость</DataObjectName>
       <DataObjectShortName>v</DataObjectShortName>
-      <DataObjectColor>0x0 0x0 0xffff| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x0 0x0 0xffff| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>235</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>3</DataObjectPrecision>
@@ -1722,7 +1722,7 @@
       <Visible>1</Visible>
       <DataObjectName>Ускорение</DataObjectName>
       <DataObjectShortName>a</DataObjectShortName>
-      <DataObjectColor>0x0 0x0 0xffff| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x0 0x0 0xffff| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>238</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>2</DataObjectPrecision>
@@ -2020,7 +2020,7 @@
       <Visible>1</Visible>
       <DataObjectName>Угол</DataObjectName>
       <DataObjectShortName>Угол</DataObjectShortName>
-      <DataObjectColor>0x0 0x8b8b 0x4545| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x0 0x8b8b 0x4545| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>2</DataObjectPrecision>
@@ -2243,7 +2243,7 @@
       <Visible>1</Visible>
       <DataObjectName>Скорость</DataObjectName>
       <DataObjectShortName>v</DataObjectShortName>
-      <DataObjectColor>0x0 0x8b8b 0x4545| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x0 0x8b8b 0x4545| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>246</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>3</DataObjectPrecision>
@@ -2293,7 +2293,7 @@
       <Visible>1</Visible>
       <DataObjectName>Ускорение</DataObjectName>
       <DataObjectShortName>a</DataObjectShortName>
-      <DataObjectColor>0x0 0x8b8b 0x4545| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x0 0x8b8b 0x4545| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>249</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>2</DataObjectPrecision>
@@ -2346,7 +2346,7 @@
       <ID>197 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <MBLPortRef>&#60;PortRef PortType="2" Location=";0c;000000;\\?\usb#vid_08f7&#38;pid_0008#5&#38;aea7634&#38;0&#38;2#{56150077-b844-49e6-b562-88498bfa2c2f}" DisplayName=";0c;000000;\\?\usb#vid_08f7&#38;pid_0008#5&#38;aea7634&#38;0&#38;2#{56150077-b844-49e6-b562-88498bfa2c2f}" /&#62;</MBLPortRef>
+      <MBLPortRef>&#60;PortRef PortType="-1" Location=";0c;000000;\\?\usb#vid_08f7&#38;pid_0008#5&#38;aea7634&#38;0&#38;2#{56150077-b844-49e6-b562-88498bfa2c2f}" DisplayName=";0c;000000;\\?\usb#vid_08f7&#38;pid_0008#5&#38;aea7634&#38;0&#38;2#{56150077-b844-49e6-b562-88498bfa2c2f}" /&#62;</MBLPortRef>
       <MBLAnalogOutWaveForm>0</MBLAnalogOutWaveForm>
       <MBLAnalogOutFrequency>1</MBLAnalogOutFrequency>
       <MBLAnalogOutAmplitude>2</MBLAnalogOutAmplitude>
